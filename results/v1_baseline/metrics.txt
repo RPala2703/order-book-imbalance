@@ -1,0 +1,4 @@
+Total Return: -0.0205
+Win Rate: 0.1886
+Sharpe Ratio: -673.6581
+Max Drawdown: -0.0257
